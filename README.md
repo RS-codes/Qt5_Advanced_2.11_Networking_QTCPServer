@@ -1,3 +1,5 @@
 # Qt5_Advanced_2.11_Networking_QTCPServer
 
-#SourceCode to be added soon
+#Under Networking, QTCPServer discussed and
+
+#SourceCode added 
